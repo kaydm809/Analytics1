@@ -16,4 +16,4 @@ Assignments from Data Analytics 6100 Course
 1. Regression
     - [Regression Analysis](https://colab.research.google.com/drive/1x2WOpREVExUf_acz6aw28vnsgmeH_5aq?usp=sharing)
 1. Segmentation 
-    - Segmenting retail transactins and behavioral segmentation
+    - [Segmenting retail transactins and behavioral segmentation](https://colab.research.google.com/drive/1oBtZ1UlThm-NBMMmdWDwLBBU-PGFnbuo?usp=sharing)
